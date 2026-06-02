@@ -1,8 +1,15 @@
 # ⚡ Signal-Shift-LED
 
+---
+
 ![logo](assets/logo.jpg)
 
+---
+
 **Author:** Moamen El-Sayed Abouhaty
+
+---
+
 **Category:** Embedded Systems / Audio Visualization
 
 ---
